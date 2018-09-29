@@ -1,0 +1,19 @@
+h1 {
+	color: #FF0055;
+	font-size: 4em;
+	margin-top: 1em;
+}
+
+p {
+	font-size: 2em;
+}
+
+p:hover {
+	color:green;
+}
+
+body {
+	background-color: #1E1E1E;
+	text-align: center;
+	color: white;
+}
